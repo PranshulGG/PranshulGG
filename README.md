@@ -20,6 +20,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PranshulGG&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+  ## 💰 You can help me by Donating
+<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -29,8 +33,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=PranshulGG&icon=0&color=7)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/PranshulGG) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
