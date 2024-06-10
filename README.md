@@ -2,12 +2,6 @@
 <h3 align="center">A passionate frontend and backend developer</h3>
 
 
-- 🌱 I’m currently learning **React, flutter**
-
-- 📫 How to reach me **pranshul.devmain@gmail.com**
-
-- ⚡ Fun fact **I like to make things with web**
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PranshulGG&theme=radical&no-frame=true&no-bg=false&margin-w=4)
